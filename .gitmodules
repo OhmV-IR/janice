@@ -1,0 +1,24 @@
+[submodule "jenkins-ai-synapse"]
+	path = jenkins-ai-synapse
+	url = https://github.com/OhmV-IR/jenkins-ai-synapse
+[submodule "jenkinsocr"]
+	path = jenkinsocr
+	url = https://github.com/OhmV-IR/jenkinsocr
+[submodule "jenkins-ollama-client"]
+	path = jenkins-ollama-client
+	url = https://github.com/OhmV-IR/jenkins-ollama-client
+[submodule "jenkins-openai-client"]
+	path = jenkins-openai-client
+	url = https://github.com/OhmV-IR/jenkins-openai-client
+[submodule "jenkins-gemini-client"]
+	path = jenkins-gemini-client
+	url = https://github.com/OhmV-IR/jenkins-gemini-client
+[submodule "jenkins-anthropic-client"]
+	path = jenkins-anthropic-client
+	url = https://github.com/OhmV-IR/jenkins-anthropic-client
+[submodule "jenkins-private-update-center"]
+	path = jenkins-private-update-center
+	url = https://github.com/OhmV-IR/jenkins-private-update-center
+[submodule "github-commentor"]
+	path = github-commentor
+	url = https://github.com/OhmV-IR/github-commentor
